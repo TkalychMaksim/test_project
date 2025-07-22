@@ -1,0 +1,11 @@
+# Робочий Vite-проект
+vite-project/
+
+# Node-папки і кеші
+node_modules/
+dist/
+.env
+
+# Службові системні файли
+.DS_Store
+Thumbs.db
